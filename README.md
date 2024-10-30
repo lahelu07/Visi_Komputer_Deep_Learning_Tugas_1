@@ -8,7 +8,7 @@ Pada klasifikasi gambar untuk mengidentifikasi jenis kelamin, sistem menggunakan
 
 a. Dataset CelebA dari Kaggle, yang berisi atribut visual dari wajah, termasuk label jenis kelamin.
 
-b. Ukuran dataset: 20.000 gambar label male dan female
+b. Ukuran dataset: 52.000 gambar label male dan female
 
 ### 3. Preprocessing Data
 
@@ -25,4 +25,4 @@ Adam optimizer, loss function: Sparse Categorical Crossentropy.
 
 b. Training Model
 
-Epoch : 10, Learning Rate : 0,00001
+Epoch : 5, Learning Rate : 0,00001
